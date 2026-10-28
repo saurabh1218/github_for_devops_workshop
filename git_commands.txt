@@ -1,0 +1,36 @@
+Id CommandLine                                                            
+  -- -----------                                                            
+   1 try { . "c:\Users\saura\AppData\Local\Programs\Microsoft VS Code\2d0...
+   2 ls                                                                     
+   3 ls -l                                                                  
+   4 clear                                                                  
+   5 ls -l                                                              
+   6 clear                                                                  
+   7 ls                                                                     
+   8 rm testing.py                                                          
+   9 init git                                                               
+  10 git init                                                               
+  11 ls -a                                                                  
+  12 clear                                                                  
+  13 dir                                                                    
+  14 dir -l                                                                 
+  15 git status                                                             
+  16 ls                                                                     
+  17 dir                                                                    
+  18  git status                                                            
+  19 git add testing.py                                                     
+  20 git status                                                             
+  21 git rm --cached                                                        
+  22 git rm --cached testing.py                                             
+  23 git status                                                             
+  24 git add testing.py                                                     
+  25 git status                                                             
+  26 git commit -m "added testing file"                                     
+  27 git status                                                             
+  28 rm testing.py                                                          
+  29 git status                                                             
+  30 restorr testing.py                                                     
+  31 recover testing.py                                                     
+  32 restore testing.py                                                     
+  33 git restore testing.py                                                 
+  34 clear     
